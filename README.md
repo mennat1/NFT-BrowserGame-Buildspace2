@@ -3,12 +3,9 @@
 ![This is an image for the dapp UI](./images/p2_1.png)
 ![This is an image for the dapp UI](./images/p2_2.png)
 ![This is an image for the dapp UI](./images/p2_3.png) -->
-
-<p float="left">
-  <img src="/images/p2_1.png" width="100" />
-  <img src="/images/p2_2.png" width="100" /> 
-  <img src="/images/p2_3.png.png" width="100" />
-</p>
+  Connect Metamask             |    Mint NFT           |      ATTACK!
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./images/p2_1.png)  |  ![](./images/p2_2.png) |  ![](./images/p2_3.png)
 
 - I built this project following Buildspace course.(https://buildspace.so/)
 - The goal of our game will be to destroy a boss.
