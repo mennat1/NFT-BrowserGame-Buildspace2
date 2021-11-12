@@ -7,6 +7,8 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](./images/p2_1.png)  |  ![](./images/p2_2.png) |  ![](./images/p2_3.png)
 
+## Brief:
+
 - I built this project following Buildspace course.(https://buildspace.so/)
 - The goal of our game will be to destroy a boss.
 - Let's say that boss has 1,000,000 HP(Hit/Health Points). What players do is when they start the game, they mint a character NFT that has a certain amount of Attack Damage and HP. Players can order their character NFT to attack the boss and deal damage to it. Kinda like a Pokemon!
@@ -21,3 +23,6 @@
 ## Later To-Do:
 - Show all the other players in the game!
 - Add in critical hit chance: for example maybe there's a 5% chance that some of your characters hit for double the damage. Or maybe there's a 20% chance the boss's attack "misses" and the player gets away lucky!
+
+## Check it on Repl.it:
+Link: (https://nft-game-starter-project.mennaabuelnaga.repl.co/)
