@@ -10,10 +10,11 @@
 ## Brief:
 
 - I built this project following Buildspace course.(https://buildspace.so/)
+- I used hardhat, ethers.js, IPFS (just on the client side), and deployed on Rinkeby testnet. (0xF5950c5fE17f9eE2359F65a11C7aDF95d164Ac90)
 - The goal of our game will be to destroy a boss.
-- Let's say that boss has 1,000,000 HP(Hit/Health Points). What players do is when they start the game, they mint a character NFT that has a certain amount of Attack Damage and HP. Players can order their character NFT to attack the boss and deal damage to it. Kinda like a Pokemon!
+- The boss (Chucky) has 10,000 HP(Hit/Health Points). What players do is when they start the game, they mint a character NFT (Genie/Shalaby/Pumpa) that has a certain amount of Attack Damage and HP. Players can order their character NFT to attack the boss and deal damage to it.
 - The goal? Players need to work together to attack the boss and bring its HP down to 0. The catch? Every time a player hit the boss, the boss hits the player back! If the NFT's HP goes below 0, the player's NFT dies and they can't hit the boss anymore. Players can only have one character NFT in their wallet. Once the character's NFT dies, it's game over. That means many players need to join forces to attack the boss and kill it.
-- The boss will not be a NFT. The boss’s data will just live on our smart contract.
+- The boss will not be an NFT. The boss’s data will just live on our smart contract.
 
 - So, when a player goes to play the game:
   1) They'll connect their wallet.
